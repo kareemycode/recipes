@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(83, 83, 83);
+    color: white;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+.title{
+    text-align: center;
+}
+
+img{
+    margin-left: 25%;
+}
